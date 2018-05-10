@@ -1,0 +1,9 @@
+:edited additional CT
+!
+interface Ethernet0/3
+ shutdown
+ no nameif
+ no security-level
+ no ip address
+!
+:end edited additional CT
